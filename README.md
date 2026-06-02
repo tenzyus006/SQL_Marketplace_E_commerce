@@ -1,7 +1,8 @@
 # SQL Marketplace E-Commerce Analysis
 
 ## Project Overview
-This project analyzes an e-commerce marketplace database using SQL. The objective is to extract business insights, improve data quality, and simulate real-world Data Analyst tasks commonly found in ERP and business environments.
+This project analyzes an e-commerce marketplace database using SQL. It focuses on data quality, business intelligence, KPI monitoring, customer and seller analytics, supply chain insights, and ERP-style data mapping through advanced SQL queries and business-oriented analysis.
+
 
 ## Key Topics
 - Data Quality Checks
